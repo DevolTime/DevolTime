@@ -62,14 +62,5 @@ Desarrollador Web Full Stack apasionado por crear proyectos web, aprender cosas 
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevolTime&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevolTime&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
-<div align="center">
-        <img src="https://komarev.com/ghpvc/?username=DevolTime&color=blueviolet&style=flat&label=PROFILE+VIEWS"
-            alt="view profile">
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

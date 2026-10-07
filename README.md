@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , Soy Luis Camargo </b></h1>
 
- <h2 align="center">
-    
+ <h2 align="center">
+    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&center=true&width=450&lines=Desarrollador+Web+Full+Stack!)](https://git.io/typing-svg)
 <br>
 
@@ -9,12 +9,12 @@
 Desarrollador Web Full Stack y Estudiante de Ingeniería de Software, apasionado por crear proyectos web, aprender cosas nuevas todos los días y escribir código limpio. Actualmente enfocado en construir aplicaciones completas y escalables con el stack MEAN (Angular, Node.js, Express y MongoDB). ¡Siempre listo para un nuevo reto! 🚀
 
 <p align='center'>
-  <a href='https://www.linkedin.com/in/devoltime/'>
-    <img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white'>
-  </a>
-  <a href='https://www.github.com/DevolTime'>
-    <img src='https://img.shields.io/github/followers/DevolTime?style=social'>
-  </a>
+  <a href='https://www.linkedin.com/in/devoltime/'>
+    <img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white'>
+  </a>
+  <a href='https://www.github.com/DevolTime'>
+    <img src='https://img.shields.io/github/followers/DevolTime?style=social'>
+  </a>
 </p>
 
 
@@ -26,26 +26,26 @@ Desarrollador Web Full Stack y Estudiante de Ingeniería de Software, apasionado
 <p align="center">
 
 - **Front-End Development**:
-    
-    [![My Skills](https://skillicons.dev/icons?i=angular,ts,js,html,css)](https://skillicons.dev)
+    
+    [![My Skills](https://skillicons.dev/icons?i=angular,ts,js,html,css)](https://skillicons.dev)
 
-<br>   
-    
+<br>   
+    
 - **Back-End Development**:
-    
-    [![My Skills](https://skillicons.dev/icons?i=nodejs,express,rxjs)](https://skillicons.dev)
+    
+    [![My Skills](https://skillicons.dev/icons?i=nodejs,express,rxjs)](https://skillicons.dev)
 
 <br>
 
 - **Database**:
 
-    [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-    
+    [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+    
 <br>
 
 - **Softwares y otros**:
-  
-    ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+  
+    ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
 <br>
@@ -53,12 +53,12 @@ Desarrollador Web Full Stack y Estudiante de Ingeniería de Software, apasionado
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevolTime&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=DevolTime&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevolTime&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=DevolTime&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
 </p>
 
 <div align='center'>
-  
+  
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevolTime&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
